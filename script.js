@@ -5,7 +5,7 @@ $(".replyYes ").click(function() {
     $("h1").css("color","pink");
     $("p").css("color","yellow"); 
     
-     $("body").css({"background-image":"url(http://img3.imgtn.bdimg.com/it/u=819273704,4080494621&fm=26&gp=0.jpg"});
+     $("body").css({"background-image":"url(https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1309371424,56932474&fm=26&gp=0.jpg"});
      
  });
  
